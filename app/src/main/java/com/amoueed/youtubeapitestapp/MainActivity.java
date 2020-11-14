@@ -27,9 +27,9 @@ public class MainActivity extends YouTubeFailureRecoveryActivity implements
         AdapterView.OnItemSelectedListener {
 
     private static final ListEntry[] ENTRIES = {
-            new ListEntry("Video 1", "bEwB2PQBRlc", false),
-            new ListEntry("Video 2", "iAmvvLumfNo", false),
-            new ListEntry("Video 3", "G2A-185WViw", false)};
+            new ListEntry("Video 1", "a6HmMKb7Sno", false),
+            new ListEntry("Video 2", "usYVYwT0xp0", false),
+            new ListEntry("Video 3", "1bOGUuV1E5Y", false)};
 
     private static final String KEY_CURRENTLY_SELECTED_ID = "currentlySelectedId";
 
